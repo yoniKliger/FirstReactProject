@@ -1,0 +1,19 @@
+{
+  "name": "firstreactproject",
+  "version": "1.0.0",
+  "description": "my first react project try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoniKliger/FirstReactProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoniKliger/FirstReactProject/issues"
+  },
+  "homepage": "https://github.com/yoniKliger/FirstReactProject#readme"
+}
